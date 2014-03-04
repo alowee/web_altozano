@@ -1,0 +1,45 @@
+[two_thirds]
+ 
+<strong>[contact-form-7 id="1242" title="Formulario de contacto 1"]</strong>
+ 
+ 
+ 
+[/two_thirds]
+ 
+[one_third_last] [divider]
+<h2>!No dude en contactarnos!</h2>
+<h2></h2>
+Disponibilidad en linea vía e-mail, por teléfono o visítanos en nuestro domicilio
+ 
+[one_half] <b>Dirección</b>:
+ 
+Prolongación Ignacio Sandoval km 5.6, Cuauhtémoc, Colima[/one_half]
+ 
+[one_half_last] <b>Telefono</b>:
+ 
++(312) 313 2900
+ 
+<b>Email</b>:
+ 
+ventas@elnuevocolima.com
+ 
+[/one_half_last]
+ 
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup"><form class="validate" id="mc-embedded-subscribe-form" action="http://alowee.us3.list-manage2.com/subscribe/post?u=5b62370070c2540d819b980b6&amp;id=b93fcf0446" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+<h2>Suscribete a nuestro boletin</h2>
+Podrás recibir nuestras noticias y próximos eventos
+<div class="indicates-required"><span class="asterisk">*</span> campos obligatorios</div>
+<div class="mc-field-group"><label for="mce-EMAIL">Email <span class="asterisk">*</span>
+</label>
+<input class="required email" id="mce-EMAIL" type="email" name="EMAIL" value="" /></div>
+<div class="mc-field-group"><label for="mce-FNAME">Nombre </label>
+<input id="mce-FNAME" type="text" name="FNAME" value="" /></div>
+<div class="mc-field-group"><label for="mce-LNAME">Apellidos </label>
+<input id="mce-LNAME" type="text" name="LNAME" value="" /></div>
+<div class="clear" id="mce-responses"></div>
+<div class="clear"><input class="button" id="mc-embedded-subscribe" type="submit" name="subscribe" value="Suscribir" /></div>
+</form></div>
+<!--End mc_embed_signup-->
+ 
+[/one_third_last]
