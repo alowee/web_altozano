@@ -1,0 +1,107 @@
+<img class="img-border" alt="" src="http://www2.altozano-colima.com/wp-content/uploads/2013/09/C-a.jpg" width="100%" />
+<div class="animated bounceInUp">
+ 
+[heading subtitle="Características"] [/heading]
+ 
+[pricing_table columns="2"]
+ 
+[pricing_column title="Planta Baja" highlight="true" highlight_reason="" price="" currency_symbol="" interval="" ]
+ 
+ 
+<ul>
+ 
+<li>Estacionamiento techado para 3 autos</li>
+<li>Vestíbulo de acceso principal</li>
+<li>Sala de estar</li>
+<li>Comedor para 8 personas</li>
+<li>Cocina</li>
+<li>Medio baño</li>
+<li>Cuarto de servicio</li>
+<li>Patio de servicio</li>
+<li>Terraza</li>
+<li>Jardín</li>
+	       <li></li>
+        <li><strong><h3>Planta Alta</h3></strong></li>
+        <li>Habitación principal con vestidor y
+baño completo</li>
+ <li>Habitación 2 con closet y baño
+completo</li>
+ <li>Habitación 3 con closet y baño
+completo</li>
+ <li>Sala de TV</li>
+ 
+ 
+</ul>
+[/pricing_column]
+ 
+[pricing_column title="Superficies" highlight="false" highlight_reason="" price="" currency_symbol="" interval="" ]
+ 
+ 
+<ul>
+<li><h4> <span class="dollar-sign">Terreno</span> 307.76 </h4><span class="interval">m2</span></li>
+	<li><h4> <span class="dollar-sign">Construcción.</span> 285.13 </h4><span class="interval">m2</span></li>
+        
+</ul>
+ 
+<!--
+[button size="large" url="#" text="Área Total=223.50 m2"]
+-->
+ 
+[/pricing_column]
+ 
+[/pricing_table]
+<div align="center">
+<h4></h4>
+</div>
+[heading subtitle="Galerías"] [/heading]
+<div id="galeria">[widgetkit id=1495]</div>
+<div></div>
+<div>
+<div>[divider line="true"]</div>
+<div></div>
+<div>[heading subtitle="Residencias Estilo Mexicano Contemporáneo"] [/heading]</div>
+<div></div>
+<div>
+ 
+[carousel easing="linear" carousel_title="Estilo Mexicano Contamporáneo" scroll_speed="700"]
+[item]
+[team_member description="Estacionamiento Techado para 2 Autos,  Vestíbulo de Acceso Principal,  Medio Baño,  Bodega,  Estancia Doble Altura,  Área de Bar..."  image_url="http://www2.altozano-colima.com/wp-content/uploads/2013/09/A-a-300x153.jpg" name="Tipo A" job_position="Mexicano Contemporáneo"]
+[button size="small" url="http://www2.altozano-colima.com/altozano/residencias/estilo-mexicano-contemporaneo/tipo-a/" text="Más Info"]
+ 
+[/item]
+ 
+[item]
+[team_member description="Estacionamiento Techado para 2 Autos, Vestíbulo de Acceso Principal, Medio Baño, Cuarto de Lavado, Patio de Servicio, Sala de Estar..." social="" image_url="http://www2.altozano-colima.com/wp-content/uploads/2013/09/B-b-300x153.jpg" name="Tipo B" job_position="Mexicano Contemporáneo"]
+ 
+[button size="small" url="http://www2.altozano-colima.com/altozano/residencias/estilo-mexicano-contemporaneo/tipo-b/" text="Más Info"]
+ 
+[/item]
+ 
+[item]
+[team_member description="Estacionamiento Techado para 3 Autos, Vestíbulo de Acceso Principal, Medio Baño, Bodega, Estancia con Sala de Estar..." social="" image_url="http://www2.altozano-colima.com/wp-content/uploads/2013/09/C-a-300x153.jpg" name="Tipo C" job_position="Mexicano Contemporáneo"]
+[button size="small" url="http://www2.altozano-colima.com/altozano/residencias/estilo-mexicano-contemporaneo/tipo-c/" text="Más Info"]
+ 
+[/item]
+ 
+[item]
+[team_member description="Estacionamiento Techado para 3 Autos,  Vestíbulo de Acceso Principal,  Medio Baño,  Sala de Estar,  Área de Bar... " social="" image_url="http://www2.altozano-colima.com/wp-content/uploads/2013/09/D-b-300x153.jpg" name="Tipo D" job_position="Mexicano Contemporáneo"]
+[button size="small" url="http://www2.altozano-colima.com/altozano/residencias/estilo-mexicano-contemporaneo/tipo-d/" text="Más Info"]
+[/item]
+ 
+[item]
+[team_member description="Estacionamiento Techado para 2 Autos, Vestíbulo de Acceso Principal, Medio Baño, Patio Central, Sala de Estar, Área de Bar..." social="" image_url="http://www2.altozano-colima.com/wp-content/uploads/2013/09/E-a-300x153.jpg" name="Tipo E" job_position="Mexicano Contemporáneo"]
+[button size="small" url="http://www2.altozano-colima.com/altozano/residencias/estilo-mexicano-contemporaneo/tipo-e/" text="Más Info"]
+[/item]
+ 
+[/carousel]
+ 
+&nbsp;
+ 
+[divider line="true"]
+ 
+[heading subtitle="Conóce nuestros modelos Estilo Mexicano Minimalista"]  ¿Buscas algo moderno?[/heading]
+<p style="text-align: center;">[button size="medium" url="http://www2.altozano-colima.com/altozano/residencias/estilo-mexicano-minimalista/tipo-a/" text="Vamos a ellas"]</p>
+ 
+</div>
+</div>
+</div>
